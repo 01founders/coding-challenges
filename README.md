@@ -51,7 +51,7 @@ Kiwi: 18p per item
 
 Strawberry: 20p per item
 
-Function Signature:
+### Function Signature:
 
 ```
 fruitPrice(fruitName, quantity) -> int
@@ -72,6 +72,8 @@ You're a passionate bird watcher, and you've been recording how many birds visit
 ### Objective:
 
 Create a function that accepts an array of bird counts (one per day) and returns the total number of birds recorded.
+
+### Function Signature:
 
 ```
 sumBirds(...counts) -> int
@@ -95,6 +97,8 @@ You need to determine whether a number is a power of 2. A number is a power of 2
 
 Create a function that accepts any number of integers and returns an array of booleans — true if the number is a power of 2, false otherwise.
 
+### Function Signature:
+
 ```
 isPowerOf2(...numbers) -> []bool
 ```
@@ -109,11 +113,11 @@ isPowerOf2(3, 6, 7) ➞ [false, false, false]
 
 ## 🚀 How to Submit
 
-You need to complete all the challenges within 30 minutes.
+-   You need to complete all the challenges within 30 minutes.
 
-Solve the challenges in Go (preferably), or in any language you're comfortable with.
+-   Solve the challenges in Go (preferably), or in any language you're comfortable with.
 
-Create a separate file for each task in the same repository, named according to the challenge (e.g., hello.go, fruit_checkout.go, etc.), and include your solution in that file.
+-   Create a separate file for each task in the same repository, named according to the challenge (e.g., hello.go, fruit_checkout.go, etc.), and include your solution in that file.
 
 Once you've completed the task, a staff member will come to check your code and ensure that the output is correct.
 
