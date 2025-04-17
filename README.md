@@ -1,9 +1,10 @@
-# Code Blast I: Language-Agnostic (Preferably Go)
+# Code Challenges: Code It Like a Pro
 
 Welcome to a set of fun and practical coding challenges designed to sharpen your skills!  
 You can solve these challenges in any language you like, but we highly encourage using Go (Golang) for that extra punch of performance and simplicity.
 
-You have **30 minutes** to complete all the tasks. Please refrain from using AI tools or searching Google for solutions. The goal is to test your coding skills and problem-solving abilities without relying on external help.  
+You have **30 minutes** to complete all the tasks. Please refrain from using AI tools or searching Google for solutions. The goal is to test your coding skills and problem-solving abilities without relying on external help.
+
 A staff member will be around to check your code and verify that the output is correct.
 
 ---
@@ -121,5 +122,5 @@ isPowerOf2(3, 6, 7) ➞ [false, false, false]
 
 Once you've completed the task, a staff member will come to check your code and ensure that the output is correct.
 
-Happy hacking! 💻🔥
+Happy hacking! 💻🔥<br>
 Got questions or suggestions? Open a PR or raise an issue.
